@@ -1,7 +1,7 @@
 # Script Name		: dir_test.py
 # Author				: Craig Richards
 # Created				: 29th November 2011
-# Last Modified		:
+# Last Modified		: 30 Jan 2014 by Joe Ryan
 # Version				: 1.0
 # Modifications		: 
 
